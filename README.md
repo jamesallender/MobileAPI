@@ -13,11 +13,12 @@ To update, follow these steps:
 1. Make sure you have `jazzy` installed. Do so by running `[sudo] gem install jazzy`
 2. Make sure you are in the directory of the source `QDIMobile`
 3. Run `jazzy --min-acl internal`
-  a. `--min-acl internal` so that it documents all methods and variables, not just public ones.
+
+NOTE: `--min-acl internal` so that it documents all methods and variables, not just public ones.
   
 ## Authors
-Drew Wilken
-Leo Molitor
-Page Bennett
-Vincent Li
+* Drew Wilken
+* Leo Molitor
+* Page Bennett
+* Vincent Li
 
