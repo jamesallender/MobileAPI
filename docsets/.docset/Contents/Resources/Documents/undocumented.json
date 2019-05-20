@@ -9,56 +9,49 @@
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 13,
-      "symbol": "AppDelegate",
-      "symbol_kind": "source.lang.swift.decl.class",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 15,
+      "line": 22,
       "symbol": "AppDelegate.window",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 61,
+      "line": 68,
       "symbol": "AppDelegate.applicationWillResignActive(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 66,
+      "line": 73,
       "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 71,
+      "line": 78,
       "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 75,
+      "line": 82,
       "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 79,
+      "line": 86,
       "symbol": "AppDelegate.applicationWillTerminate(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
-      "line": 87,
+      "line": 94,
       "symbol": "AppDelegate.persistentContainer",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"

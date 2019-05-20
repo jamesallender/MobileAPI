@@ -79,28 +79,7 @@
     },
     {
       "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
-      "line": 25,
-      "symbol": "DataViewController.selectedRows",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
-      "line": 27,
-      "symbol": "DataViewController.viewDidLoad()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
-      "line": 39,
-      "symbol": "DataViewController.viewWillAppear(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
-      "line": 118,
+      "line": 120,
       "symbol": "DataViewController.tableView(_:didDeselectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
