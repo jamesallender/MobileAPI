@@ -1,0 +1,411 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AddDataViewController.swift",
+      "line": 434,
+      "symbol": "AddDataViewController.inputAccessoryView(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 13,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 61,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 66,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 71,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 75,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 79,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/AppDelegate.swift",
+      "line": 87,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/ChangeLogTableViewCell.swift",
+      "line": 19,
+      "symbol": "ChangeLogTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/ChangeLogTableViewCell.swift",
+      "line": 24,
+      "symbol": "ChangeLogTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/ChangeLogTableViewController.swift",
+      "line": 71,
+      "symbol": "ChangeLogTableViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
+      "line": 25,
+      "symbol": "DataViewController.selectedRows",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
+      "line": 27,
+      "symbol": "DataViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
+      "line": 39,
+      "symbol": "DataViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/DataViewController.swift",
+      "line": 118,
+      "symbol": "DataViewController.tableView(_:didDeselectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/GeologistLoginViewController.swift",
+      "line": 17,
+      "symbol": "GeologistLoginViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/SampleAnnotation.swift",
+      "line": 14,
+      "symbol": "SampleAnnotation.sample",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/SampleAnnotation.swift",
+      "line": 16,
+      "symbol": "SampleAnnotation.init(sample:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/SampleAnnotationView.swift",
+      "line": 18,
+      "symbol": "SampleAnnotationView.init(annotation:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/SampleAnnotationView.swift",
+      "line": 25,
+      "symbol": "SampleAnnotationView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/QDIMobile/SingleLogViewController.swift",
+      "line": 26,
+      "symbol": "SingleLogViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataClass.swift",
+      "line": null,
+      "symbol": "DataPoint",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "DataPoint",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "DataPoint.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "DataPoint.county",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "DataPoint.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "DataPoint.elevation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 23,
+      "symbol": "DataPoint.geologist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "DataPoint.img2Path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "DataPoint.imgPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "DataPoint.inputSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "DataPoint.latitude",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "DataPoint.locationMethod",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 29,
+      "symbol": "DataPoint.longitude",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 30,
+      "symbol": "DataPoint.method",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 31,
+      "symbol": "DataPoint.section",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 32,
+      "symbol": "DataPoint.siteName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 33,
+      "symbol": "DataPoint.source",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 34,
+      "symbol": "DataPoint.subSection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 35,
+      "symbol": "DataPoint.timeStamp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 36,
+      "symbol": "DataPoint.townRange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 37,
+      "symbol": "DataPoint.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/DataPoint+CoreDataProperties.swift",
+      "line": 38,
+      "symbol": "DataPoint.geologicalMaterial",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataClass.swift",
+      "line": null,
+      "symbol": "GeologicalMaterial",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "GeologicalMaterial",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "GeologicalMaterial.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "GeologicalMaterial.cal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "GeologicalMaterial.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "GeologicalMaterial.depositType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 23,
+      "symbol": "GeologicalMaterial.fieldDrillerDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "GeologicalMaterial.from",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "GeologicalMaterial.moisture",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 26,
+      "symbol": "GeologicalMaterial.munsell",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 27,
+      "symbol": "GeologicalMaterial.munsell2",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 28,
+      "symbol": "GeologicalMaterial.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 29,
+      "symbol": "GeologicalMaterial.to",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile/build/QDIMobile.build/Release-iphoneos/QDIMobile.build/DerivedSources/CoreDataGenerated/QDIMobile/GeologicalMaterial+CoreDataProperties.swift",
+      "line": 30,
+      "symbol": "GeologicalMaterial.dataPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/drewwilken/Documents/Apps/Capstone/QDIMobile"
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a title="  Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="index.html"> Docs</a> (57% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="index.html"> Reference</a>
+        <img id="carat" src="img/carat.png" />
+          Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Classes/AddDataViewController.html">AddDataViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/AppDelegate.html">AppDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/ChangeLog.html">ChangeLog</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/ChangeLogTableViewCell.html">ChangeLogTableViewCell</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/ChangeLogTableViewController.html">ChangeLogTableViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/DataPoint.html">DataPoint</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/DataViewController.html">DataViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/EditViewController.html">EditViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/GeologicalMaterial.html">GeologicalMaterial</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/GeologistLoginViewController.html">GeologistLoginViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/MapViewController.html">MapViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/SampleAnnotation.html">SampleAnnotation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/SampleAnnotationView.html">SampleAnnotationView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/SettingsViewController.html">SettingsViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/SingleLogViewController.html">SingleLogViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Global Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Global Variables.html#/s:9QDIMobile12depositTypesSaySSGvp">depositTypes</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Global Variables.html#/s:9QDIMobile13moistureTypesSaySSGvp">moistureTypes</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Global Variables.html#/s:9QDIMobile12munsellTypesSaySSGvp">munsellTypes</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            
+            <h1 id='qdi-mobile-application' class='heading'>QDI Mobile Application</h1>
+<h2 id='end-goal-of-this-application' class='heading'>End goal of this Application</h2>
+
+<p>A data gathering application made for the people of the Minnesotan Geological Survey</p>
+
+<hr>
+<h2 id='version-0-1-em-initial-release-em-mar-15-2019' class='heading'>Version 0.1 &ndash; <em>Initial Release</em> (Mar 15, 2019)</h2>
+
+<p>3 seperate pages of the application that are navigable via a navigation bar at the bottom of the screen.  The initial page a user will start on is the sign in page.  This is where the user will enter their geologist ID which will then populate in forms that take that ID as input.  Once signed in, the user is brought to the Map page where they can press the <q>+</q> button in the top right hand corner of the screen.  If they press that button the user is brought to a page of Data Entry text boxes that contain specific data related to whatever new sample a user wishes to add.  The settings page has two fields, one of which is the geologistID which is autofilled upon login and can be changed whenever necessary.  The other field is a sample log which is not functional yet but will house a record of each   sample that has been sent to QDI once the app is up and running.</p>
+
+<hr>
+<h2 id='version-0-2-mar-29-2019' class='heading'>Version 0.2 (Mar 29, 2019)</h2>
+
+<ul>
+<li>Feature of Using the Core data as local storage for new data points which are added by users.</li>
+<li>Ability to fetch data points from the Core data.</li>
+</ul>
+
+<hr>
+<h2 id='version-0-3-apr-12-2019' class='heading'>Version 0.3 (Apr 12, 2019)</h2>
+
+<ul>
+<li>CRUD(created, read, upload and delete) operations for data points.</li>
+<li>Ability of creating and showing pins on the Map.</li>
+<li>Change Log page is available for checking updates in the application.</li>
+</ul>
+
+<hr>
+<h2 id='version-0-4-apr-26-2019' class='heading'>Version 0.4 (Apr 26, 2019)</h2>
+
+<ul>
+<li>Capability to include photo in data points.</li>
+</ul>
+
+<hr>
+<h2 id='version-0-5-may-17-2019' class='heading'>Version 0.5 (May 17, 2019)</h2>
+
+<ul>
+<li>Feature of exporting selected data points as a zip file.</li>
+<li>Completion of data entry form for creating a data point.</li>
+<li>Feature of showing entered samples by pressing pins on the Map.</li>
+</ul>
+<h2 id='creators' class='heading'>Creators</h2>
+
+<ul>
+<li><strong>Page Bennett</strong></li>
+<li><strong>Drew Wilken</strong></li>
+<li><strong>Zach Glasgow</strong></li>
+<li><strong>Vincent Li</strong></li>
+<li><strong>Leo Molitor</strong></li>
+</ul>
+
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2019 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2019-05-20)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.6</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
