@@ -4,7 +4,7 @@ The repository for the documentation for the QDI Mobile application. Generated b
 
 ## Usage
 
-To view the website, go to http://github.io/blahblahblah
+To view the website, go to https://ust-cisc480s19-myre.github.io/MobileAPI/
 
 ## Updating
 
